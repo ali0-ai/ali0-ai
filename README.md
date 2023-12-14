@@ -1,5 +1,5 @@
 ### Hi there! 👋
-<h1 align="center">Hello, I'm [Your Name]</h1>
+<h1 align="center">Hello, I'm Shahzaib Ali</h1>
 <h3 align="center">Passionate Mechatronics Engineer | Embedded Systems Enthusiast | Robotics & IT Enthusiast</h3>
 
 - 🌐 Exploring the intersections of Mechatronics, Embedded Systems, IT, and Robotics.
@@ -10,11 +10,11 @@
 
 - 🌱 Continuously learning and staying updated with the latest trends in technology.
 
-- 📫 Reach me at **[shahzaibali.isb@gmail.com]**
+- 📫 Reach me at **shahzaibali.isb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[[Your LinkedIn Profile]](https://www.linkedin.com/in/shahzaibalinust/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/shahzaibalinust/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShahzaibAliNust" height="50" width="50" /></a>
   <!-- Add other social media links as needed -->
 </p>
 
@@ -36,6 +36,4 @@
   <!-- Add more as per your skillset -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YourGitHubUsername]&show_icons=true&locale=en&layout=compact" alt="[YourGitHubUsername]" /></p>
-
-<!-- Feel free to customize or add any other relevant information -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali0-ai&show_icons=true&locale=en&layout=compact" alt="ali0-ai" /></p>
