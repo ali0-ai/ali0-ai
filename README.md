@@ -36,6 +36,6 @@
   <!-- Add more as per your skillset -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[ali0-ai]&show_icons=true&locale=en&layout=compact" alt="[ali0-ai]" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YourGitHubUsername]&show_icons=true&locale=en&layout=compact" alt="[YourGitHubUsername]" /></p>
 
 <!-- Feel free to customize or add any other relevant information -->
