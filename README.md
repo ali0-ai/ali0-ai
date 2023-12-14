@@ -20,4 +20,4 @@
   <!-- Add more relevant tools as needed -->
 </p>
 
-<p><img align="center" src="shahzaibali" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibasti97&show_icons=true&locale=en&layout=compact" alt="shahzaibali" /></p>
