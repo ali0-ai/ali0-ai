@@ -21,7 +21,7 @@
 <h3 align="left">Areas of Expertise:</h3>
 <p align="left">
   <!-- Add icons or relevant images for your areas of expertise -->
-  <img src="https://img.icons8.com/color/48/000000/microcontroller.png(https://icons8.com/icon/QXdIvKTwg0Gk/microcontroller)" alt="Embedded Systems" width="50" height="50"/>
+  <img src="https://icons8.com/icon/QXdIvKTwg0Gk/microcontroller" alt="Embedded Systems" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/robot.png" alt="Robotics" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/code.png" alt="Software Development" width="50" height="50"/>
   <!-- Add more as per your expertise -->
