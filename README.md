@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <h1 align="center">Hello, I'm Shahzaib Ali</h1>
-<h3 align="center">Passionate Mechatronics Engineer | Embedded Systems Enthusiast | Robotics & IT Enthusiast</h3>
+<h3 align="center">Passionate Mechatronics Engineer | Embedded Systems Enthusiast | Robotics & IoT Enthusiast</h3>
 
 - 🌐 Exploring the intersections of Mechatronics, Embedded Systems, IT, and Robotics.
 
@@ -21,7 +21,7 @@
 <h3 align="left">Areas of Expertise:</h3>
 <p align="left">
   <!-- Add icons or relevant images for your areas of expertise -->
-  <img src="https://img.icons8.com/color/48/000000/microcontroller.png" alt="Embedded Systems" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/microcontroller.png(https://icons8.com/icon/QXdIvKTwg0Gk/microcontroller)" alt="Embedded Systems" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/robot.png" alt="Robotics" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/code.png" alt="Software Development" width="50" height="50"/>
   <!-- Add more as per your expertise -->
