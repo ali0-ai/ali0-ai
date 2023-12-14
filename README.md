@@ -10,11 +10,11 @@
 
 - 🌱 Continuously learning and staying updated with the latest trends in technology.
 
-- 📫 Reach me at **[YourEmail@example.com]**
+- 📫 Reach me at **[shahzaibali.isb@gmail.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[Your LinkedIn Profile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="50" width="50" /></a>
+  <a href="[[Your LinkedIn Profile]](https://www.linkedin.com/in/shahzaibalinust/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="50" width="50" /></a>
   <!-- Add other social media links as needed -->
 </p>
 
