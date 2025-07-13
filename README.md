@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <h1 align="center">Hello, I'm Shahzaib Ali</h1>
-<h3 align="center">Passionate Mechatronics Engineer | Embedded Systems Enthusiast | Robotics & IoT Enthusiast</h3>
+<h3 align="center">Passionate Mechatronics Engineer | AI in Health Care | Embedded AI and IOT for Health Care</h3>
 
 - 🌐 Exploring the intersections of Mechatronics, Embedded Systems, IT, and Robotics.
 
